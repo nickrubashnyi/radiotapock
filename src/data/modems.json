@@ -1,0 +1,142 @@
+[
+  {
+    "id": "0",
+
+    "vurobnyk": "Hope RF",
+    "size": "18x33 mm",
+    "juvlennia": "3.6...6",
+    "temp": "-40...+85",
+    "type_connect": "RF",
+    "chastota": "433/915 ",
+    "interface": "SPI",
+    "type": "Прийомопередавач",
+
+
+    "in_market": "122",
+    "info": "Прийомопередавач, 433...915МГц, інтерфейс SPI, 256кбіт/с, +30дБ",
+    "model": "RFM23BP-433-S2",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/rfm23bp-433-s2-images.jpg",
+    "price": "318",
+    "articul": "07218"
+  },
+  {
+    "id": "1",
+
+    "vurobnyk": "Hope RF",
+    "size": "16x16x1,8 мм",
+    "juvlennia": "1,8...3,7",
+    "temp": "-20...+70",
+    "type_connect": "RF",
+    "chastota": "868 ",
+    "interface": "SPI",
+    "type": "Прийомопередавач",
+
+
+    "in_market": "269",
+    "info": "Прийомопередавач, FM; FSK; 868МГц; -139дБм; 20дБм",
+    "model": "RFM95W-868S2",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/rfm95w-868s2-images.jpg",
+    "price": "260",
+    "articul": "07219"
+  },
+  {
+    "id": "2",
+
+    "vurobnyk": "Hope RF",
+    "size": "18x33 mm",
+    "juvlennia": "3.6...6",
+    "temp": "-40...+85",
+    "type_connect": "RF",
+    "chastota": "433/915 ",
+    "interface": "SPI",
+    "type": "Прийомопередавач",
+
+
+    "in_market": "122",
+    "info": "Прийомопередавач,  433/868 /915, SPI, 300кбіт/с, вихідна потужність 20Дб",
+    "model": "RFM69HW-433-S2",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/rfm69hw-433-s2-images.jpg",
+    "price": "110",
+    "articul": "07220"
+  },
+  {
+    "id": "3",
+
+    "vurobnyk": "Hope RF",
+    "size": "16x16 mm",
+    "juvlennia": "1,8...3,6",
+    "temp": "-40...+85",
+    "type_connect": "RF",
+    "chastota": "868 ",
+    "interface": "SPI",
+    "type": "Прийомопередавач",
+
+
+    "in_market": "122",
+    "info": "Прийомопередавач FSK, GFSK, MSK, GMSK , 868МГц, інтернейс SPI, 300кбіт/с",
+    "model": "RFM69HCW-868S2 (REV3.0)",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/rfm23bp-433-s2-images.jpg",
+    "price": "318",
+    "articul": "07218"
+  },
+  {
+    "id": "4",
+
+    "vurobnyk": "Hope RF",
+    "size": "12x16 mm",
+    "juvlennia": "2.1...5.5",
+    "temp": "-20...+70",
+    "type_connect": "RF",
+    "chastota": "433",
+    "interface": "Цифровий",
+    "type": "Передавач",
+
+
+    "in_market": "175",
+    "info": "Передавач, 433МГц, вихідна потужність 12...16 дБ",
+    "model": "RFM85W-433D",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/rfm85w-433d-1.jpg",
+    "price": "32",
+    "articul": "07221"
+  },
+  {
+    "id": "5",
+
+    "vurobnyk": "Hope RF",
+    "size": "10х43,2 мм",
+    "juvlennia": "3.6...5.5",
+    "temp": "-20...+70",
+    "type_connect": "RF",
+    "chastota": "433",
+    "interface": "Цифровий",
+    "type": "Приймач",
+
+
+    "in_market": "112",
+    "info": "Приймач супергетеродин, 433МГц, 300кбіт/с, -108дБ",
+    "model": "RFM83C-433S V1.1",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/rfm83c-433s-images.jpg",
+    "price": "112",
+    "articul": "07222"
+  },
+  {
+    "id": "6",
+
+    "vurobnyk": "Hope RF",
+    "size": "10х43,2 мм",
+    "juvlennia": "1.9...3.6",
+    "temp": "-20...+70",
+    "type_connect": "RF",
+    "chastota": "2400",
+    "interface": "Цифровий",
+    "type": "Прийомо-передавач",
+
+
+    "in_market": "112",
+    "info": "Модуль прийому-передачі даних 2,4GHz. Інтерфейс обміну даними: SPI. Частота прийому і передачі: 2,4 ГГц. Швидкість до 2Мбит. Тип модуляції: GFSK.",
+    "model": "NRF24L01",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/nrf24l01_1.jpg",
+    "price": "38",
+    "articul": "07222"
+  }
+]

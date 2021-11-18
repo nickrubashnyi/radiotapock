@@ -1,0 +1,170 @@
+[
+  {
+    "id": "0",
+
+    "marka": "NHC Huilongcang",
+    "nom_napruga": "24",
+    "navantaj": "10 А 250 В",
+    "opir": "1600",
+    "power": "360 м",
+    "material": "сплав срібла",
+    "strum_1": "10A 250VAC",
+    "strum_2": "10A 125VAC",
+    "temp": "-40 ... + 85",
+    "size": "19,2 × 15,5 × 15,5 мм",
+
+    "in_market": "22",
+    "info": "Реле 973-24VDC-SL-A NHC Huilongcang електромагнітне - використовується в різноманітних електронних схемах.",
+    "model": "973-24VDC-SL-A",
+    "url": "https://blackchip.com.ua/image/catalog/tovar/rele/973-24V.jpg",
+    "price": "18",
+    "articul": "06218"
+  },
+  {
+    "id": "1",
+
+    "marka": "NHC Huilongcang",
+    "nom_napruga": "24",
+    "navantaj": "5 А 200 В",
+    "opir": "1500",
+    "power": "460 м",
+    "material": "сплав срібла",
+    "strum_1": "12A 250VAC",
+    "strum_2": "12A 125VAC",
+    "temp": "-40 ... + 85",
+    "size": "19,2 × 15,5 × 15,5 мм",
+
+    "in_market": "22",
+    "info": "Реле 973-24VDC-SL-A NHC Huilongcang електромагнітне - використовується в різноманітних електронних схемах.",
+    "model": "913-44SDC-BL-R",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/rele-v23074-a1001-a403-1.jpg",
+    "price": "28",
+    "articul": "06219"
+  },
+  {
+    "id": "2",
+
+    "marka": "NHC Huilongcang",
+    "nom_napruga": "24",
+    "navantaj": "10 А 250 В",
+    "opir": "1600",
+    "power": "360 м",
+    "material": "сплав срібла",
+    "strum_1": "10A 250VAC",
+    "strum_2": "10A 125VAC",
+    "temp": "-40 ... + 85",
+    "size": "19,2 × 15,5 × 15,5 мм",
+
+    "in_market": "22",
+    "info": "Реле 973-24VDC-SL-A NHC Huilongcang електромагнітне - використовується в різноманітних електронних схемах.",
+    "model": "973-24VDC-SL-A",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/a-5w-k_fujitsu.jpg",
+    "price": "18",
+    "articul": "06218"
+  },
+  {
+    "id": "3",
+
+    "marka": "Panasonic",
+    "nom_napruga": "24",
+    "navantaj": "10 А 250 В",
+    "opir": "1600",
+    "power": "360 м",
+    "material": "сплав срібла",
+    "strum_1": "10A 150VAC",
+    "strum_2": "10A 110VAC",
+    "temp": "-40 ... + 85",
+    "size": "19,2 × 15,5 × 15,5 мм",
+
+    "in_market": "22",
+    "info": "Реле 973-24VDC-SL-A NHC Huilongcang електромагнітне - використовується в різноманітних електронних схемах.",
+    "model": "TQ2-L2-5V",
+    "url": "https://blackchip.com.ua/image/catalog/tovar/rele/973-24V.jpg",
+    "price": "67",
+    "articul": "31001"
+  },
+  {
+    "id": "4",
+
+    "marka": "NHC Huilongcang",
+    "nom_napruga": "5",
+    "navantaj": "10 5 150 В",
+    "opir": "1000",
+    "power": "350 м",
+    "material": "сплав срібла",
+    "strum_1": "10A 250VAC",
+    "strum_2": "10A 125VAC",
+    "temp": "-40 ... + 85",
+    "size": "19,2 × 15,5 × 15,5 мм",
+
+    "in_market": "82",
+    "info": "Реле P-5 - використовується в різноманітних електронних схемах.",
+    "model": "P-5",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/p-5_ningbo_forward_relay.jpg",
+    "price": "18",
+    "articul": "05218"
+  },
+  {
+    "id": "5",
+
+    "marka": "ZETTLER",
+    "nom_napruga": "24",
+    "navantaj": "10 А 250 В",
+    "opir": "1600",
+    "power": "360 м",
+    "material": "сплав срібла",
+    "strum_1": "12A 123VAC",
+    "strum_2": "12A 30VDC",
+    "temp": "-40 ... + 85",
+    "size": "14 x 9 x 5 мм",
+
+    "in_market": "212",
+    "info": "Реле AZ850-5 NHC ZETTLER електромагнітне - використовується в різноманітних електронних схемах.",
+    "model": "AZ850-5",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/az850-5-zettler.jpg",
+    "price": "18",
+    "articul": "91994"
+  },
+  {
+    "id": "6",
+
+    "marka": "NHC Huilongcang",
+    "nom_napruga": "24",
+    "navantaj": "10 А 250 В",
+    "opir": "1600",
+    "power": "360 м",
+    "material": "сплав срібла",
+    "strum_1": "10A 250VAC",
+    "strum_2": "10A 125VAC",
+    "temp": "-40 ... + 85",
+    "size": "19,2 × 15,5 × 15,5 мм",
+
+    "in_market": "22",
+    "info": "Реле 973-24VDC-SL-A NHC Huilongcang електромагнітне - використовується в різноманітних електронних схемах.",
+    "model": "FTR-H1CA012V",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/tq2sa-5v-images.jpg",
+    "price": "18",
+    "articul": "06218"
+  },
+  {
+    "id": "7",
+
+    "marka": "NHC Huilongcang",
+    "nom_napruga": "24",
+    "navantaj": "10 А 250 В",
+    "opir": "100",
+    "power": "360 м",
+    "material": "сплав срібла",
+    "strum_1": "10A 250VAC",
+    "strum_2": "10A 125VAC",
+    "temp": "-40 ... + 85",
+    "size": "19,2 × 15,5 × 15,5 мм",
+
+    "in_market": "22",
+    "info": "Реле 973-24VDC-SL-A NHC Huilongcang електромагнітне - використовується в різноманітних електронних схемах.",
+    "model": "FTR-F3AA024E-HA",
+    "url": "https://www.rcscomponents.kiev.ua/modules/Asers_Shop/images/productimages/fbr51nd12-w1-1.jpg",
+    "price": "18",
+    "articul": "06218"
+  }
+]
