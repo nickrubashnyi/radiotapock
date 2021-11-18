@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/radiotapock/static/css/main.191cdf86.chunk.css",
+    "main.js": "/radiotapock/static/js/main.d4ed5b74.chunk.js",
+    "main.js.map": "/radiotapock/static/js/main.d4ed5b74.chunk.js.map",
+    "runtime-main.js": "/radiotapock/static/js/runtime-main.545fb1a1.js",
+    "runtime-main.js.map": "/radiotapock/static/js/runtime-main.545fb1a1.js.map",
+    "static/css/2.78d25fd2.chunk.css": "/radiotapock/static/css/2.78d25fd2.chunk.css",
+    "static/js/2.5e934861.chunk.js": "/radiotapock/static/js/2.5e934861.chunk.js",
+    "static/js/2.5e934861.chunk.js.map": "/radiotapock/static/js/2.5e934861.chunk.js.map",
+    "index.html": "/radiotapock/index.html",
+    "static/css/2.78d25fd2.chunk.css.map": "/radiotapock/static/css/2.78d25fd2.chunk.css.map",
+    "static/css/main.191cdf86.chunk.css.map": "/radiotapock/static/css/main.191cdf86.chunk.css.map",
+    "static/js/2.5e934861.chunk.js.LICENSE.txt": "/radiotapock/static/js/2.5e934861.chunk.js.LICENSE.txt",
+    "static/media/RadioTapock.29017642.svg": "/radiotapock/static/media/RadioTapock.29017642.svg",
+    "static/media/blackchip-logo.bee88eba.png": "/radiotapock/static/media/blackchip-logo.bee88eba.png",
+    "static/media/footer.module.css": "/radiotapock/static/media/img.5d047b76.png",
+    "static/media/slick-theme.css": "/radiotapock/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.545fb1a1.js",
+    "static/css/2.78d25fd2.chunk.css",
+    "static/js/2.5e934861.chunk.js",
+    "static/css/main.191cdf86.chunk.css",
+    "static/js/main.d4ed5b74.chunk.js"
+  ]
+}
